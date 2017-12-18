@@ -15,6 +15,7 @@ https://github.com/fendouai/Awesome-Chatbot
 ## 聊天机器人训练库
 1. https://github.com/EternalFeather/Chatbot-Training-Corpus
 2. https://github.com/candlewill/Dialog_Corpus
+3. https://github.com/majoressense/dgk_lost_conv
 
 ## ChatterBot
 https://github.com/gunthercox/ChatterBot
